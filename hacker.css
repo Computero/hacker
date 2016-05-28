@@ -1,0 +1,20 @@
+/*
+Theme Name: Hacker
+Version: 0.0.1
+Specification: ProtonMail
+Compatibility: Windows, MacOS. FF, IE, Chrome, Safari
+Author: Computero
+URL: https://computerobz.wordpress.com
+*/
+
+header#pm_header-desktop {
+background: #222222;
+}
+
+body section.sidebar {
+background: #222222;
+}
+
+header#pm_header-desktop a.logo {
+background: #222222;
+}
